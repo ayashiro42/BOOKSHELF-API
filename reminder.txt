@@ -1,0 +1,12 @@
+catatan pemahaman logika angka wijaya untuk membuat program
+jngan dihapus hehe
+📂 book-api
+ ├── 📂 src
+ │   ├── 📄 books.js  (Database sementara)
+ │   ├── 📄 routes.js (Routing API)
+ │   ├── 📄 handler.js (Logika bisnis API)
+ │   ├── 📄 server.js (Konfigurasi & menjalankan server)
+ ├── 📄 package.json
+ ├── 📄 .eslintrc.json
+ ├── 📄 .gitignore
+ └── 📄 README.md
